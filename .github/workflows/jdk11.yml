@@ -1,4 +1,4 @@
-name: Java CI
+name: jdk11 build and test
 
 on: [push]
 
