@@ -11,5 +11,11 @@
 
     <artifactId>lox-main</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.github.whatot</groupId>
+            <artifactId>lox-api</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>
